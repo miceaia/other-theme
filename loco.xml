@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle>
+  <domain name="us">
+    <project>
+      <target>
+        <directory>common/languages</directory>
+      </target>
+      <template locked="true">
+        <file>common/languages/us.pot</file>
+      </template>
+    </project>
+  </domain>
+</bundle>
